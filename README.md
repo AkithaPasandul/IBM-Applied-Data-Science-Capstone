@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 Success Landing Prediction
+# Applied Data Science Capstone
 
 ## 🚀 Project Overview
 This project aims to predict whether the SpaceX Falcon 9 first stage will successfully land after a rocket launch. Successful landings enable cost savings through stage reuse, reducing launch costs significantly.
